@@ -31,7 +31,7 @@ pip install ffmpeg-python
 # 4. Install FFmpeg (required for audio processing)
 sudo apt update && sudo apt install ffmpeg -y
 
-## 5. 🎧 Usage
+## 3. 📦 🎧 Usage
 # 1. Download a sample audio file
 wget https://www2.cs.uic.edu/~i101/SoundFiles/StarWars3.wav -O test.wav
 
