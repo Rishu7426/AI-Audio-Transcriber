@@ -37,3 +37,10 @@ wget https://www2.cs.uic.edu/~i101/SoundFiles/StarWars3.wav -O test.wav
 
 # 2. Run the transcriber with translation
 python3 translate.py test.wav
+
+
+AI-Audio-Transcriber/
+├── translate.py         # Main script to run transcription + translation
+├── test.wav             # Sample audio file (replace with your own)
+└── README.md            # Documentation
+
