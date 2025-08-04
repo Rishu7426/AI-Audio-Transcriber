@@ -39,6 +39,15 @@ wget https://www2.cs.uic.edu/~i101/SoundFiles/StarWars3.wav -O test.wav
 python3 translate.py test.wav
 
 
+📝 Example Input : test.wav(some audio file)
+📝 Example Output
+🔤 English Transcription:
+She enjoyed reading by the fireplace every evening. The gentle crackling sound of wood made it feel cozy and warm.
+
+🌐 Hindi Translation:
+वह हर शाम चिमनी के पास पढ़ना पसंद करती थी। लकड़ी की हल्की चटकने की आवाज़ माहौल को आरामदायक और गर्म बनाती थी।
+
+
 AI-Audio-Transcriber/
 ├── translate.py         # Main script to run transcription + translation
 ├── test.wav             # Sample audio file (replace with your own)
